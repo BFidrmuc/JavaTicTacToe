@@ -1,0 +1,497 @@
+BL.IgracaPloca
+Popis privatnih varijabli je sljedeći: 
+oznaka
+x
+y
+Popis javnih metoda je sljedeći: 
+setYMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+setXMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+getXMetoda ne prima ništa!
+Metoda vraća: 
+int
+getYMetoda ne prima ništa!
+Metoda vraća: 
+int
+getOznakaMetoda ne prima ništa!
+Metoda vraća: 
+class BL.Oznaka
+setOznakaMetoda prima: 
+class BL.Oznaka arg0
+Metoda vraća: 
+void
+waitMetoda ne prima ništa!
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+int arg1
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+Metoda vraća: 
+void
+equalsMetoda prima: 
+class java.lang.Object arg0
+Metoda vraća: 
+boolean
+toStringMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.String
+hashCodeMetoda ne prima ništa!
+Metoda vraća: 
+int
+getClassMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.Class
+notifyMetoda ne prima ništa!
+Metoda vraća: 
+void
+notifyAllMetoda ne prima ništa!
+Metoda vraća: 
+void
+BL.Oznaka
+Popis privatnih varijabli je sljedeći: 
+oznaka
+x
+y
+Popis javnih metoda je sljedeći: 
+setYMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+setXMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+getXMetoda ne prima ništa!
+Metoda vraća: 
+int
+getYMetoda ne prima ništa!
+Metoda vraća: 
+int
+getOznakaMetoda ne prima ništa!
+Metoda vraća: 
+class BL.Oznaka
+setOznakaMetoda prima: 
+class BL.Oznaka arg0
+Metoda vraća: 
+void
+waitMetoda ne prima ništa!
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+int arg1
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+Metoda vraća: 
+void
+equalsMetoda prima: 
+class java.lang.Object arg0
+Metoda vraća: 
+boolean
+toStringMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.String
+hashCodeMetoda ne prima ništa!
+Metoda vraća: 
+int
+getClassMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.Class
+notifyMetoda ne prima ništa!
+Metoda vraća: 
+void
+notifyAllMetoda ne prima ništa!
+Metoda vraća: 
+void
+BL.Polje
+Popis privatnih varijabli je sljedeći: 
+oznaka
+x
+y
+Popis javnih metoda je sljedeći: 
+setYMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+setXMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+getXMetoda ne prima ništa!
+Metoda vraća: 
+int
+getYMetoda ne prima ništa!
+Metoda vraća: 
+int
+getOznakaMetoda ne prima ništa!
+Metoda vraća: 
+class BL.Oznaka
+setOznakaMetoda prima: 
+class BL.Oznaka arg0
+Metoda vraća: 
+void
+waitMetoda ne prima ništa!
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+int arg1
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+Metoda vraća: 
+void
+equalsMetoda prima: 
+class java.lang.Object arg0
+Metoda vraća: 
+boolean
+toStringMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.String
+hashCodeMetoda ne prima ništa!
+Metoda vraća: 
+int
+getClassMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.Class
+notifyMetoda ne prima ništa!
+Metoda vraća: 
+void
+notifyAllMetoda ne prima ništa!
+Metoda vraća: 
+void
+BL.Reflection
+Popis privatnih varijabli je sljedeći: 
+oznaka
+x
+y
+Popis javnih metoda je sljedeći: 
+setYMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+setXMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+getXMetoda ne prima ništa!
+Metoda vraća: 
+int
+getYMetoda ne prima ništa!
+Metoda vraća: 
+int
+getOznakaMetoda ne prima ništa!
+Metoda vraća: 
+class BL.Oznaka
+setOznakaMetoda prima: 
+class BL.Oznaka arg0
+Metoda vraća: 
+void
+waitMetoda ne prima ništa!
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+int arg1
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+Metoda vraća: 
+void
+equalsMetoda prima: 
+class java.lang.Object arg0
+Metoda vraća: 
+boolean
+toStringMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.String
+hashCodeMetoda ne prima ništa!
+Metoda vraća: 
+int
+getClassMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.Class
+notifyMetoda ne prima ništa!
+Metoda vraća: 
+void
+notifyAllMetoda ne prima ništa!
+Metoda vraća: 
+void
+DAL.IRepo
+Popis privatnih varijabli je sljedeći: 
+oznaka
+x
+y
+Popis javnih metoda je sljedeći: 
+setYMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+setXMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+getXMetoda ne prima ništa!
+Metoda vraća: 
+int
+getYMetoda ne prima ništa!
+Metoda vraća: 
+int
+getOznakaMetoda ne prima ništa!
+Metoda vraća: 
+class BL.Oznaka
+setOznakaMetoda prima: 
+class BL.Oznaka arg0
+Metoda vraća: 
+void
+waitMetoda ne prima ništa!
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+int arg1
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+Metoda vraća: 
+void
+equalsMetoda prima: 
+class java.lang.Object arg0
+Metoda vraća: 
+boolean
+toStringMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.String
+hashCodeMetoda ne prima ništa!
+Metoda vraća: 
+int
+getClassMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.Class
+notifyMetoda ne prima ništa!
+Metoda vraća: 
+void
+notifyAllMetoda ne prima ništa!
+Metoda vraća: 
+void
+DAL.RepoDat
+Popis privatnih varijabli je sljedeći: 
+oznaka
+x
+y
+Popis javnih metoda je sljedeći: 
+setYMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+setXMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+getXMetoda ne prima ništa!
+Metoda vraća: 
+int
+getYMetoda ne prima ništa!
+Metoda vraća: 
+int
+getOznakaMetoda ne prima ništa!
+Metoda vraća: 
+class BL.Oznaka
+setOznakaMetoda prima: 
+class BL.Oznaka arg0
+Metoda vraća: 
+void
+waitMetoda ne prima ništa!
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+int arg1
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+Metoda vraća: 
+void
+equalsMetoda prima: 
+class java.lang.Object arg0
+Metoda vraća: 
+boolean
+toStringMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.String
+hashCodeMetoda ne prima ništa!
+Metoda vraća: 
+int
+getClassMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.Class
+notifyMetoda ne prima ništa!
+Metoda vraća: 
+void
+notifyAllMetoda ne prima ništa!
+Metoda vraća: 
+void
+DAL.RepoFactory
+Popis privatnih varijabli je sljedeći: 
+oznaka
+x
+y
+Popis javnih metoda je sljedeći: 
+setYMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+setXMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+getXMetoda ne prima ništa!
+Metoda vraća: 
+int
+getYMetoda ne prima ništa!
+Metoda vraća: 
+int
+getOznakaMetoda ne prima ništa!
+Metoda vraća: 
+class BL.Oznaka
+setOznakaMetoda prima: 
+class BL.Oznaka arg0
+Metoda vraća: 
+void
+waitMetoda ne prima ništa!
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+int arg1
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+Metoda vraća: 
+void
+equalsMetoda prima: 
+class java.lang.Object arg0
+Metoda vraća: 
+boolean
+toStringMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.String
+hashCodeMetoda ne prima ništa!
+Metoda vraća: 
+int
+getClassMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.Class
+notifyMetoda ne prima ništa!
+Metoda vraća: 
+void
+notifyAllMetoda ne prima ništa!
+Metoda vraća: 
+void
+projektkrizickruzic.FXMLDocumentController
+Popis privatnih varijabli je sljedeći: 
+oznaka
+x
+y
+Popis javnih metoda je sljedeći: 
+setYMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+setXMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+getXMetoda ne prima ništa!
+Metoda vraća: 
+int
+getYMetoda ne prima ništa!
+Metoda vraća: 
+int
+getOznakaMetoda ne prima ništa!
+Metoda vraća: 
+class BL.Oznaka
+setOznakaMetoda prima: 
+class BL.Oznaka arg0
+Metoda vraća: 
+void
+waitMetoda ne prima ništa!
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+int arg1
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+Metoda vraća: 
+void
+equalsMetoda prima: 
+class java.lang.Object arg0
+Metoda vraća: 
+boolean
+toStringMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.String
+hashCodeMetoda ne prima ništa!
+Metoda vraća: 
+int
+getClassMetoda ne prima ništa!
+Metoda vraća: 
+class java.lang.Class
+notifyMetoda ne prima ništa!
+Metoda vraća: 
+void
+notifyAllMetoda ne prima ništa!
+Metoda vraća: 
+void
+projektkrizickruzic.FXMLIgraController
+Popis privatnih varijabli je sljedeći: 
+oznaka
+x
+y
+Popis javnih metoda je sljedeći: 
+setYMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+setXMetoda prima: 
+int arg0
+Metoda vraća: 
+void
+getXMetoda ne prima ništa!
+Metoda vraća: 
+int
+getYMetoda ne prima ništa!
+Metoda vraća: 
+int
+getOznakaMetoda ne prima ništa!
+Metoda vraća: 
+class BL.Oznaka
+setOznakaMetoda prima: 
+class BL.Oznaka arg0
+Metoda vraća: 
+void
+waitMetoda ne prima ništa!
+Metoda vraća: 
+void
+waitMetoda prima: 
+long arg0
+int ar
